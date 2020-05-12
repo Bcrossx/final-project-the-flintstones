@@ -20,7 +20,7 @@ What you plan to do: Work on the UI of project and Captcha generation\
 What are you stuck on: N/A\
 Links to commits: N/A
 
-### Tanner
+### Tammer
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
@@ -46,7 +46,7 @@ What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
 Links to commits:[Type here]
 
-### Tanner
+### Tammer
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
@@ -72,7 +72,7 @@ What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
 Links to commits:[Type here]
 
-### Tanner
+### Tammer
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\

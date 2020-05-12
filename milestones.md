@@ -3,10 +3,10 @@
 ## Milestone 1
 
 ### Maxim
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Created the slides for the Milestone 1 video and helped determine what type of work needs to be done going forward.\
+What you plan to do: I plan to work with Ben to better understand the ML side of the project and begin training models.\
+What are you stuck on: The ML/math of Carlini’s paper\
+Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit/4fe3d39474714bcd89192e57fd70c23763b59f37
 
 ### Ben
 What you did: Put together design doc, organized agenda for our meeting\

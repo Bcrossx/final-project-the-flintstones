@@ -26,6 +26,9 @@ What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
 Links to commits:[Type here]
 
+### Link to Video
+Link: 
+
 ## Milestone 2
 
 ### Maxim

@@ -5,7 +5,7 @@
 ### Maxim
 What you did:\
 What you plan to do:\
-What are you stuck on:\
+What are you stuck on:
 
 ## Milestone 2
 

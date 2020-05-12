@@ -6,25 +6,25 @@
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ### Ben
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ### James
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ### Tanner
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ## Milestone 2
 
@@ -32,25 +32,25 @@ Links to commits:
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ### Ben
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ### James
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ### Tanner
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ## Milestone 3
 
@@ -58,22 +58,22 @@ Links to commits:
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ### Ben
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ### James
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]
 
 ### Tanner
 What you did:[Type here]\
 What you plan to do:[Type here]\
 What are you stuck on:[Type here]\
-Links to commits:
+Links to commits:[Type here]

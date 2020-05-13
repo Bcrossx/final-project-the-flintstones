@@ -9,10 +9,10 @@ What are you stuck on: The ML/math of Carlini’s paper\
 Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit/4fe3d39474714bcd89192e57fd70c23763b59f37
 
 ### Ben
-What you did: Put together design doc, organized agenda for our meeting\
+What you did: Put together design doc, organized agenda for our meeting, made video presentation\
 What you plan to do: Work on captcha generation and training the ML bot\
 What are you stuck on: N/A\
-Links to commits: https://github.com/ECS153/final-project-the-flintstones/blob/master/design_docs.md
+Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit/b47546f2123b481ea74c0f9d8cd5d6a5b860c068
 
 ### James
 What you did: Contributed to the discussion of what needed to be accomplished. Worked on milestones.md\
@@ -24,10 +24,13 @@ Links to commits: N/A
 What you did: Caught Up and understood our groups' goal and thought about/researched how the user(or bot) input is matched to the correct input and the overall matching algorithm.\
 What you plan to do: I plan on working on a flexible matching algorithm or find outside code that I can adapt to work with our specific project.\
 What are you stuck on: Actual implementation as it will require a stronger foundation for our project to be applied. \
-Links to commits:[Type here]
+Links to commits:N/A
 
 ### Link to Video
-Link: 
+Link: https://youtu.be/yUNzN2gcdXk
+
+### Design Doc
+Link: https://github.com/ECS153/final-project-the-flintstones/blob/master/design_docs.md
 
 ## Milestone 2
 

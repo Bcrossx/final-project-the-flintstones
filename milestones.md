@@ -21,7 +21,7 @@ What are you stuck on: N/A\
 Links to commits: N/A
 
 ### Tammer
-What you did: Catching up and understanding our groups' goal and begin to think about/research how the user(or bot) input is matched to the correct input and the matching algorithm.\
+What you did: Caught Up and understood our groups' goal and thought about/researched how the user(or bot) input is matched to the correct input and the overall matching algorithm.\
 What you plan to do: I plan on working on a flexible matching algorithm or find outside code that I can adapt to work with our specific project.\
 What are you stuck on: Actual implementation as it will require a stronger foundation for our project to be applied. \
 Links to commits:[Type here]

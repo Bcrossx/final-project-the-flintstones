@@ -21,10 +21,12 @@ What are you stuck on: N/A\
 Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit/495684e982371ca0e0f8adfa4750f4d4d42dd340
 
 ### Tammer
-What you did: Caught Up and understood our groups' goal and thought about/researched how the user(or bot) input is matched to the correct input and the overall matching algorithm.\
-What you plan to do: I plan on working on a flexible matching algorithm or find outside code that I can adapt to work with our specific project.\
-What are you stuck on: Actual implementation as it will require a stronger foundation for our project to be applied. \
-Links to commits:N/A
+What you did: Researched how the user(or bot) input is matched to the correct input and the overall matching algorithm and added a hard-coded matching algorithm to the program.\
+What you plan to do: I plan on working on a flexible matching algorithm or find outside code that I can adapt to work with our specific project to make the matching dynamic.\
+What are you stuck on: Actual implementation as it will require a stronger foundation for our project to be applied.\
+Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit/1f68beedd7ecb1949fe123df00fe0fa69bdbea5b \
+https://github.com/ECS153/final-project-the-flintstones/commit/f2e371f4b7dafc94bab43b939bf2dcdd90a08025 \
+https://github.com/ECS153/final-project-the-flintstones/commit/7836156bac0d46dc8b9f7969ba32aed991e03e24 \
 
 ### Link to Video
 Link: https://youtu.be/yUNzN2gcdXk

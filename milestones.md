@@ -10,8 +10,8 @@ Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit
 
 ### Ben
 What you did: Put together design doc, organized agenda for our meeting, made video presentation\
-What you plan to do: Work on captcha generation and training the ML bot\
-What are you stuck on: N/A\
+What you plan to do: Work on creating a captcha image subset and collaborate with Maxim on the ML side\
+What are you stuck on: Understanding the substance of Carlinis methods as well as how to go about creating the images we'll be using\
 Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit/b47546f2123b481ea74c0f9d8cd5d6a5b860c068
 
 ### James

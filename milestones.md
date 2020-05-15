@@ -15,10 +15,10 @@ What are you stuck on: N/A\
 Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit/b47546f2123b481ea74c0f9d8cd5d6a5b860c068
 
 ### James
-What you did: Contributed to the discussion of what needed to be accomplished. Worked on milestones.md\
+What you did: Created sketch of website. Worked on milestones.md\
 What you plan to do: Work on the UI of project and Captcha generation\
 What are you stuck on: N/A\
-Links to commits: N/A
+Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit/495684e982371ca0e0f8adfa4750f4d4d42dd340
 
 ### Tammer
 What you did: Caught Up and understood our groups' goal and thought about/researched how the user(or bot) input is matched to the correct input and the overall matching algorithm.\

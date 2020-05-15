@@ -26,7 +26,7 @@ What you plan to do: I plan on working on a flexible matching algorithm or find 
 What are you stuck on: Actual implementation as it will require a stronger foundation for our project to be applied.\
 Links to commits: https://github.com/ECS153/final-project-the-flintstones/commit/1f68beedd7ecb1949fe123df00fe0fa69bdbea5b \
 https://github.com/ECS153/final-project-the-flintstones/commit/f2e371f4b7dafc94bab43b939bf2dcdd90a08025 \
-https://github.com/ECS153/final-project-the-flintstones/commit/7836156bac0d46dc8b9f7969ba32aed991e03e24 \
+https://github.com/ECS153/final-project-the-flintstones/commit/7836156bac0d46dc8b9f7969ba32aed991e03e24 
 
 ### Link to Video
 Link: https://youtu.be/yUNzN2gcdXk

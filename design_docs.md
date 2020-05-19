@@ -1,5 +1,6 @@
 # Design Docs
 
+Overall concept:
 https://docs.google.com/document/d/1EsodKU5K464KExib-TnFbjazZ2u5WhwQLvBnnMstmPU/edit
 
 Generating adversarial, user-facing CAPTCHAs using attack algorithms  

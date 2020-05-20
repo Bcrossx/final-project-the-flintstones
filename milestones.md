@@ -43,10 +43,10 @@ What are you stuck on:[Type here]\
 Links to commits:[Type here]
 
 ### Ben
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Explored adversarial examples with Maxim, began refactoring model training/attack methods from Carlini.
+What you plan to do: Work on changes to our ML Model/attack from Carlini. 
+What are you stuck on: Refactoring Carlini’s minimal attack code to work with Tensorflow 2.0.
+Links to commits:
 
 ### James
 What you did:[Type here]\

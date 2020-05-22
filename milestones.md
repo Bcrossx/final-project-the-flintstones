@@ -35,12 +35,16 @@ Link: https://youtu.be/yUNzN2gcdXk
 Link: https://github.com/ECS153/final-project-the-flintstones/blob/master/design_docs.md
 
 ## Milestone 2
+### Link to Video  
+Link: https://youtu.be/55hAwMUjYZw
 
 ### Maxim
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did:Implemented FGSM and MI-FGSM attacks and tested them on MNIST and Chars74K datasets.\
+What you plan to do: Experimentation with attack parameters and assessing attack success rate and making notebooks into proper Python scripts\
+What are you stuck on: Figuring out what is the best way to test for the best parameters.\
+Links to commits:\
+https://github.com/ECS153/final-project-the-flintstones/commit/e664f15adcfa59e7a3eaf7661b9f1639ad8b1fd1
+https://github.com/ECS153/final-project-the-flintstones/commit/039c4589ada02d24830c6aa4394b3568b8de60ff
 
 ### Ben
 What you did: Explored adversarial examples with Maxim, began refactoring model training/attack methods from Carlini.\

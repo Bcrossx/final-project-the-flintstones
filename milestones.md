@@ -48,7 +48,7 @@ https://github.com/ECS153/final-project-the-flintstones/commit/039c4589ada02d248
 
 ### Ben
 What you did: Explored adversarial examples with Maxim, began refactoring model training/attack methods from Carlini.\
-What you plan to do: Work on changes to our ML Model/attack from Carlini. \
+What you plan to do: Reimplement Carlini's minimal attack within the confines of our basic model. If this becomes unfeasible I plan to assist Maxim. \
 What are you stuck on: Refactoring Carlini’s minimal attack code to work with Tensorflow 2.0.\
 Links to commits:
 

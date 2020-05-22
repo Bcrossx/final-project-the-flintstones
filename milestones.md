@@ -59,10 +59,10 @@ What are you stuck on: Figuring out what the most optimal algorithm to use is.\
 Links to commits:
 
 ### Tammer
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Planning for how the website will be able to lay out the individual captcha images and how to store individual images within a database for matching to the actual letter.\
+What you plan to do: Collaborate with James on our end of the project.\
+What are you stuck on: Our database and matching input with image and overall website layout to insert the images.\
+Links to commits:
 
 ## Milestone 3
 

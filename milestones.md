@@ -53,10 +53,10 @@ What are you stuck on: Refactoring Carlini’s minimal attack code to work with 
 Links to commits:
 
 ### James
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Researched methods on how to match characters entered in a textbox to the captcha displayed to the user.\
+What you plan to do: Implement the captcha detection algorithm within the website\
+What are you stuck on: Figuring out what the most optimal algorithm to use is.\
+Links to commits:
 
 ### Tammer
 What you did:[Type here]\

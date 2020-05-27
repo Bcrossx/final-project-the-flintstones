@@ -66,6 +66,12 @@ Links to commits:
 
 ## Milestone 3
 
+### Link to Video
+Link: 
+
+### Design Doc
+Link: 
+
 ### Maxim
 What you did:[Type here]\
 What you plan to do:[Type here]\

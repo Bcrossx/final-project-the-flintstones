@@ -97,4 +97,4 @@ Links to commits:
 What you did: Displayed CAPTCHA to user and matched user input to check if it is exactly the same as the CAPTCHA.\
 What you plan to do: Help James if needed in layout or further improvement of the website.\
 What are you stuck on: N/A\
-Links to commits: https://github.com/ECS153/final-project-the-flintstones/pull/2/commits/bf91b8c3a23313d7d5a6e67c65ad08d03118d60c\
+Links to commits: https://github.com/ECS153/final-project-the-flintstones/pull/2/commits/bf91b8c3a23313d7d5a6e67c65ad08d03118d60c

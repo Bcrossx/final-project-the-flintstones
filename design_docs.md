@@ -8,3 +8,7 @@ Generating adversarial, user-facing CAPTCHAs using attack algorithms
 
 Website Implementation:
 https://docs.google.com/document/d/19kaWNocCqfpqjNuKsntCD-SZla4OJWv75mxo8wAp_gE/edit?usp=sharing
+
+
+Generating CAPTCHA and Matching User Input:
+https://docs.google.com/document/d/19Ji4RB2Y1vHvPFh7wM5UYcJaLPR2WOAIemmUxLQL0gY/edit?usp=sharing

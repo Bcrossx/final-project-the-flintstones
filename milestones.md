@@ -70,7 +70,7 @@ Links to commits:
 Link: https://drive.google.com/open?id=1g0ifs9IvqhPa8fMuGqAJmp3_vwSadW0I
 
 ### Design Doc
-Link: 
+Link: https://docs.google.com/document/d/19Ji4RB2Y1vHvPFh7wM5UYcJaLPR2WOAIemmUxLQL0gY/edit?usp=sharing
 
 ### Maxim
 What you did:[Type here]\
@@ -91,7 +91,7 @@ What are you stuck on: Waiting for the captcha to be returned\
 Links to commits:
 
 ### Tammer
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Displayed CAPTCHA to user and matched user input to check if it is exactly the same as the CAPTCHA.\
+What you plan to do: Help James if needed in layout or further improvement of the website.\
+What are you stuck on: N/A\
+Links to commits: https://github.com/ECS153/final-project-the-flintstones/pull/2/commits/bf91b8c3a23313d7d5a6e67c65ad08d03118d60c\

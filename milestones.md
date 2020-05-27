@@ -69,8 +69,9 @@ Links to commits:
 ### Link to Video
 Link: https://drive.google.com/open?id=1g0ifs9IvqhPa8fMuGqAJmp3_vwSadW0I
 
-### Design Doc
+### Design Docs
 Link: https://docs.google.com/document/d/19Ji4RB2Y1vHvPFh7wM5UYcJaLPR2WOAIemmUxLQL0gY/edit?usp=sharing
+Link: https://docs.google.com/document/d/19kaWNocCqfpqjNuKsntCD-SZla4OJWv75mxo8wAp_gE/edit?usp=sharing
 
 ### Maxim
 What you did:[Type here]\

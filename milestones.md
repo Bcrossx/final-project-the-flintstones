@@ -74,10 +74,12 @@ Link: https://docs.google.com/document/d/19Ji4RB2Y1vHvPFh7wM5UYcJaLPR2WOAIemmUxL
 Link: https://docs.google.com/document/d/19kaWNocCqfpqjNuKsntCD-SZla4OJWv75mxo8wAp_gE/edit?usp=sharing
 
 ### Maxim
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Performed assessments on attack effectiveness and created a set of examples to use for the demo\
+What you plan to do: Clean up existing code and help preparing for the final presentation demo\
+What are you stuck on: N/A\
+Links to commits:
+https://github.com/ECS153/final-project-the-flintstones/pull/1
+https://github.com/ECS153/final-project-the-flintstones/commit/2f4cef380bec1be0b7567c4b8c62e301a4ef31eb
 
 ### Ben
 What you did:[Type here]\

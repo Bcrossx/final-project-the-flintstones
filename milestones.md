@@ -88,10 +88,10 @@ What are you stuck on:[Type here]\
 Links to commits:[Type here]
 
 ### James
-What you did: Worked on website/algorithm. \
+What you did: Added better user experience to website and captcha service. \
 What you plan to do: Finish the model and website\
-What are you stuck on: Waiting for the captcha to be returned\
-Links to commits:
+What are you stuck on: N/A \
+Links to commits: 
 
 ### Tammer
 What you did: Displayed CAPTCHA to user and matched user input to check if it is exactly the same as the CAPTCHA.\

@@ -79,10 +79,10 @@ What are you stuck on:[Type here]\
 Links to commits:[Type here]
 
 ### James
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Worked on website/algorithm. \
+What you plan to do: Finish the model and website\
+What are you stuck on: Waiting for the captcha to be returned\
+Links to commits:
 
 ### Tammer
 What you did:[Type here]\

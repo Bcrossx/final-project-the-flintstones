@@ -82,10 +82,10 @@ https://github.com/ECS153/final-project-the-flintstones/pull/1
 https://github.com/ECS153/final-project-the-flintstones/commit/2f4cef380bec1be0b7567c4b8c62e301a4ef31eb
 
 ### Ben
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Worked on getting Carlini's L0 minimal attack method. \
+What you plan to do: Keep trying to figure out what is going on in Carlini's L0 attack so we can implement it.\
+What are you stuck on: N/A\
+Links to commits:N/A
 
 ### James
 What you did: Added better user experience to website and captcha service. \

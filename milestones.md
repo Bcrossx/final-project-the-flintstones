@@ -67,7 +67,7 @@ Links to commits:
 ## Milestone 3
 
 ### Link to Video
-Link: 
+Link: https://drive.google.com/open?id=1g0ifs9IvqhPa8fMuGqAJmp3_vwSadW0I
 
 ### Design Doc
 Link: 

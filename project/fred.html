@@ -15,19 +15,29 @@
 <header>
 <img src= "Fred_Flintstone.png" alt="Fred Picture" title= "Are you a robot... or am I?">
 <h2>Fred - The anti-bot CAPTCHA</h2>
-<p id = "directions"> Input the phrase, "FreDerick!", without quotes and press submit.</p>
+<p id = "directions"> Input the CAPTCHA exactly as shown and press submit.</p>
 </header>
 
 <main>
-<div id="inputDiv">
-  <input type="text" id="word"/>
-  <button type="button" id="submitButton" onclick = "getInput()"> 
-	Submit
-  </button>
-</div>
-<div id="outputDiv">
-  <p id="outputGoesHere"></p>
-</div>
+	<button type="button" id="genCap" onclick="captchaGen()">
+		Generate CAPTCHA
+	</button>
+	<div class = "captchaWrap">
+		<img id= "letter0">
+		<img id= "letter1">
+		<img id= "letter2">
+		<img id= "letter3">
+		<img id= "letter4">
+	</div>
+	<div id="inputDiv">
+	  <input type="text" id="word"/>
+	  <button type="button" id="submitButton" onclick = "getInput()"> 
+		Submit
+	  </button>
+	</div>
+	<div id="outputDiv">
+	  <p id="outputGoesHere"></p>
+	</div>
 </main>
 
 </body>

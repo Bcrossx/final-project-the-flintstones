@@ -8,6 +8,7 @@
 <link rel="stylesheet" type="text/css" href="reset.css">
 <link rel="stylesheet" type="text/css" href="layout.css">
 <script src = "button.js"> </script>
+<body onload="captchaGen()">
 </head>
 
 <body>
@@ -15,13 +16,11 @@
 <header>
 <img src= "Fred_Flintstone.png" alt="Fred Picture" title= "Are you a robot... or am I?">
 <h2>Fred - The anti-bot CAPTCHA</h2>
-<p id = "directions"> Input the CAPTCHA exactly as shown and press submit.</p>
+<p id = "directions"> Input the CAPTCHA exactly as shown and press submit. (Capital letters matter)</p>
 </header>
 
 <main>
-	<button type="button" id="genCap" onclick="captchaGen()">
-		Generate CAPTCHA
-	</button>
+	<p id="tries"> </p>
 	<div class = "captchaWrap">
 		<img id= "letter0">
 		<img id= "letter1">

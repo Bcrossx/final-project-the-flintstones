@@ -1,4 +1,5 @@
-﻿function getInput() {
+﻿var tries = 3;
+function getInput() {
 	var myInput = document.getElementById("word").value;
 	matchInput(correctInput);
   }
@@ -11,22 +12,40 @@
 	let oglength = correct.length;
 	let uiLength = userInput.length;
 	if(uiLength != oglength) {
-		alert("You entered the wrong phrase, you might be a phony!!");
+		tries = tries - 1;
+		if (tries > 0) {
+			
+			alert("You entered the wrong phrase, you might be a phony!!");
+			document.getElementById("tries").innerHTML = "You have " + tries + " tries left."
+			captchaGen()
+		}
+		else {
+			window.location.href = "fail.html";
+		}
 	}
 	else {
 		
 		if(!(correct == userInput)) {
-			alert("You entered the wrong phrase, you might be a phony!!");
+			tries = tries - 1;
+			if (tries > 0) {
+				
+				alert("You entered the wrong phrase, you might be a phony!!");
+				document.getElementById("tries").innerHTML = "You have " + tries + " tries left."
+				captchaGen()
+			}
+			else{
+				window.location.href = "fail.html";
+			}
 		}
 		else {
-			alert("You entered the correct phrase!");
+			window.location.href = "success.html";
 		}
 	}
   }
 
 function captchaGen() {
 
-
+	document.getElementById("tries").innerHTML = "You have " + tries + " tries."
 
 	let src1 = "m_0.png";
 	let src2 = "m_1.png";

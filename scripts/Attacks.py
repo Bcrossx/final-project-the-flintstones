@@ -48,4 +48,4 @@ def new_mi_fgsm(model, image, label, decay_factor=1.0, eps=0.1, T=10):
         else:
             perturbations = (eps * (g/L2))
         adv_x = adv_x - perturbations
-    return adv_x.numpy()
+    return adv_x

@@ -14,28 +14,34 @@
 <body>
 
 <header>
-<img src= "Fred_Flintstone.png" alt="Fred Picture" title= "Are you a robot... or am I?">
+<img src= "Fred_Flintstone.png" alt="Fred Picture" title= "Are you a robot... or am I?" height = "300" width = "200">
 <h2>Fred - The anti-bot CAPTCHA</h2>
-<p id = "directions"> Input the CAPTCHA exactly as shown and press submit. (Capital letters matter)</p>
+
 </header>
 
 <main>
-	<p id="tries"> </p>
+    <div id="create_account">
+		<p> Username </p>
+		<input type="text" placeholder="Type desired username here">
+		<p> Password </p>
+		<input type="text" placeholder="Type desired password here">
+	</div>
+	<p> Verification test </p>
+	<p id = "directions"> Input the CAPTCHA below exactly as shown and press submit. (Capital letters matter)</p>
 	<div class = "captchaWrap">
-		<img id= "letter0">
-		<img id= "letter1">
-		<img id= "letter2">
-		<img id= "letter3">
-		<img id= "letter4">
+		<img id= "letter0" height = "70" width = "70">
+		<img id= "letter1" height = "70" width = "70">
+		<img id= "letter2" height = "70" width = "70">
+		<img id= "letter3" height = "70" width = "70">
+		<img id= "letter4" height = "70" width = "70">
 	</div>
-	<div id="inputDiv">
-	  <input type="text" id="word"/>
+	
+	<p id="tries"> </p>
+	<div id="create_account">
+	  <input type="text" id="word" placeholder = "Type captcha here">
 	  <button type="button" id="submitButton" onclick = "getInput()"> 
-		Submit
+		Create account
 	  </button>
-	</div>
-	<div id="outputDiv">
-	  <p id="outputGoesHere"></p>
 	</div>
 </main>
 

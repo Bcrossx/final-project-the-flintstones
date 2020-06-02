@@ -3,10 +3,23 @@ html,body{
 	width: 100vw;
 	height:100vh;
 	background-color: Aquamarine;
-	font-size: 20px
+	font-size: 20px;
+}
+
+header{
+	font-size: 50px;
 }
 
 #directions {
-	font-size: medium;
+	font-size: 15px;
 	margin: 10px;
+	width: 10;
+}
+
+#create_account{
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	width: 20%;
+	padding: 10px;
 }

@@ -67,31 +67,34 @@ Links to commits:
 ## Milestone 3
 
 ### Link to Video
-Link: 
+Link: https://drive.google.com/open?id=1g0ifs9IvqhPa8fMuGqAJmp3_vwSadW0I
 
-### Design Doc
-Link: 
+### Design Docs
+Link: https://docs.google.com/document/d/19Ji4RB2Y1vHvPFh7wM5UYcJaLPR2WOAIemmUxLQL0gY/edit?usp=sharing
+Link: https://docs.google.com/document/d/19kaWNocCqfpqjNuKsntCD-SZla4OJWv75mxo8wAp_gE/edit?usp=sharing
 
 ### Maxim
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Performed assessments on attack effectiveness and created a set of examples to use for the demo\
+What you plan to do: Clean up existing code and help preparing for the final presentation demo\
+What are you stuck on: N/A\
+Links to commits:
+https://github.com/ECS153/final-project-the-flintstones/pull/1
+https://github.com/ECS153/final-project-the-flintstones/commit/2f4cef380bec1be0b7567c4b8c62e301a4ef31eb
 
 ### Ben
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Worked on getting Carlini's L0 minimal attack method. \
+What you plan to do: Keep trying to figure out what is going on in Carlini's L0 attack so we can implement it.\
+What are you stuck on: N/A\
+Links to commits:N/A
 
 ### James
-What you did: Worked on website/algorithm. \
+What you did: Added better user experience to website and captcha service. \
 What you plan to do: Finish the model and website\
-What are you stuck on: Waiting for the captcha to be returned\
-Links to commits:
+What are you stuck on: N/A \
+Links to commits: 
 
 ### Tammer
-What you did:[Type here]\
-What you plan to do:[Type here]\
-What are you stuck on:[Type here]\
-Links to commits:[Type here]
+What you did: Displayed CAPTCHA to user and matched user input to check if it is exactly the same as the CAPTCHA.\
+What you plan to do: Help James if needed in layout or further improvement of the website.\
+What are you stuck on: N/A\
+Links to commits: https://github.com/ECS153/final-project-the-flintstones/pull/2/commits/bf91b8c3a23313d7d5a6e67c65ad08d03118d60c

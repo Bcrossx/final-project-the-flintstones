@@ -6,7 +6,7 @@ from random import randint
 import Attacks
 
 def load_test_data(filename="Chars74K_data.hdf5"):
-    with h5py.File("Chars74K_data.hdf5", "r") as f:
+    with h5py.File(filename, "r") as f:
         x_test = []
         y_test = []
         ds_length = len(f["x_test"])

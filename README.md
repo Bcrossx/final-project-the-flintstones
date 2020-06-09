@@ -21,6 +21,19 @@ Accuracy: 0.9667, Loss: 0.0023
 ## Website/CAPTCHA Matching
 We use HTML, CSS, and Javascript to load a webpage with our CAPTCHA to simulate a use case of our project: a website sign up page.
 
+#### [Wrap CAPTCHA Within HTML](https://github.com/ECS153/final-project-the-flintstones/blob/08d89e5c49e068c1d89ddec9c1bd0f58846ca680/project/fred.html#L30)
+#### [Call captchaGen() onload](https://github.com/ECS153/final-project-the-flintstones/blob/08d89e5c49e068c1d89ddec9c1bd0f58846ca680/project/fred.html#L11)
+
+#### [CAPTCHA Generation](https://github.com/ECS153/final-project-the-flintstones/blob/08d89e5c49e068c1d89ddec9c1bd0f58846ca680/project/button.js#L46)
+####
+Call function [randomizeCap](https://github.com/ECS153/final-project-the-flintstones/blob/08d89e5c49e068c1d89ddec9c1bd0f58846ca680/project/button.js#L104)
+to generate a randomly ordered set of integers that will determine the order of the letters.
+#### [Correct Input](https://github.com/ECS153/final-project-the-flintstones/blob/08d89e5c49e068c1d89ddec9c1bd0f58846ca680/project/button.js#L65)
+Parse the randomized order of the returned array and simultaneously display the CAPTCHA in that order while recording the correctInput.
+#### [Matching User Input](https://github.com/ECS153/final-project-the-flintstones/blob/08d89e5c49e068c1d89ddec9c1bd0f58846ca680/project/button.js#L7)
+User is given three tries to correctly input the CAPTCHA before being redirected to either a FAIL or SUCCESS page. Each incorrect try also rearranges the order of the CAPTCHA.
+
+
 ## General Use
 ### Generating Adversarial Examples
 Running `python generate_examples.py` will perform an attack on 5 random images from the dataset and outputs the model's prediction on the images as well as the images themselves. Line 26 of the file must be changed to specify what Attack you want to be used. The [model](https://drive.google.com/file/d/1mIr5lVTdYXoVJkhu0P8jNjAMYQCFsHGS/view?usp=sharing) and [dataset](https://drive.google.com/file/d/1goaA1kAqefS9tELiQdpNDW2D2kRlFWK9/view?usp=sharing) files must be in the same directory.

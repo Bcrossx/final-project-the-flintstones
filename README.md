@@ -29,7 +29,7 @@ We use HTML, CSS, and Javascript to load a webpage with our CAPTCHA to simulate 
 Call function [randomizeCap](https://github.com/ECS153/final-project-the-flintstones/blob/08d89e5c49e068c1d89ddec9c1bd0f58846ca680/project/button.js#L104)
 to generate a randomly ordered set of integers that will determine the order of the letters.
 #### [Correct Input](https://github.com/ECS153/final-project-the-flintstones/blob/08d89e5c49e068c1d89ddec9c1bd0f58846ca680/project/button.js#L65)
-Parse the randomized order of the returned array and simultaneously display the CAPTCHA in that order while recording the correctInput.
+Parse the randomized order of the returned array and assign the image sources during this time. Simultaneously, record what the correct input should be. 
 #### [Matching User Input](https://github.com/ECS153/final-project-the-flintstones/blob/08d89e5c49e068c1d89ddec9c1bd0f58846ca680/project/button.js#L7)
 User is given three tries to correctly input the CAPTCHA before being redirected to either a FAIL or SUCCESS page. Each incorrect try also rearranges the order of the CAPTCHA.
 
